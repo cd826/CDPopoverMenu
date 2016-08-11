@@ -1,7 +1,7 @@
 # CDPopoverMenu(Swift)
 本控件是一个弹出式菜单控件。  
 
-![image](https://github.com/cd826/ScrollViewPaging/blob/master/demo.gif?raw=true)
+![image](https://github.com/cd826/CDPopoverMenu/blob/master/demo.gif?raw=true)
 
 ## 使用方法
 ```swift
